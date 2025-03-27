@@ -1,4 +1,26 @@
 h1{
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: azure;
+}
+
+section{
+    background-color: aquamarine;
+    margin: 1em;
+    font-family: cursive;
+    padding: 0.5em;
+}
+section img{
+    width: 7em;
+    padding: auto;
+
+}
+
+body{
+    background-color: rgb(76, 75, 75);
+}
+
+main{
+    display: flex;
+    justify-content: space-around; 
 }
